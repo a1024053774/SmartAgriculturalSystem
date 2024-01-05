@@ -1,3 +1,3 @@
-# SpringBoot
-SpringBoot+MybatisPlus+Vue后台管理系统
-代码生成前backup
+# SpringBoot<br>
+SpringBoot+Vue<br>
+基于云端传感器网络技术的智慧农业监测与控制系统
